@@ -18,7 +18,7 @@ I am Full-stack Developer
    <code><img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png" width="55px" height="55px"></code>
    <code><img src="https://toppng.com/uploads/preview/wordpress-logo-11609383122hwxgelm1oc.png" width="55px" height="55px"></code>
    <code><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" width="55px" height="55px"></code>
-   
+    <code><img src="https://www.pngitem.com/pimgs/m/520-5206022_php-mysql-logo-png-transparent-png.png" width="55px" height="55px"></code>
 <br />
 
 - &nbsp; Current location: Tashkent, Uzbekistan
