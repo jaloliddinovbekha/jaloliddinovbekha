@@ -16,7 +16,7 @@ I am Full-stack Developer
    <code><img src="https://www.php.net/images/logos/new-php-logo.svg" width="55px" height="35px"></code>
    <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="55px" height="35px"></code>
    <code><img src="https://w7.pngwing.com/pngs/358/849/png-transparent-postgresql-database-logo-database-symbol-blue-text-logo-thumbnail.png" width="55px" height="35px"></code>
-   <code><img src="https://toppng.com/uploads/preview/wordpress-logo-11609383122hwxgelm1oc.png" width="55px" height="35px"></code>
+   <code><img src="https://toppng.com/uploads/preview/wordpress-logo-11609383122hwxgelm1oc.png" width="55px" height="45px"></code>
    
 <br />
 
