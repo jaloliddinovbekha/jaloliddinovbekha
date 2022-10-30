@@ -21,6 +21,6 @@ I am Full-stack Developer
     <code><img src="https://www.pngitem.com/pimgs/m/520-5206022_php-mysql-logo-png-transparent-png.png" width="55px" height="55px"></code>
 <br />
 
-- &nbsp; Current location: Tashkent, Uzbekistan
+- &nbsp; 📍 Current location: Tashkent, Uzbekistan
 - &nbsp; Ask me about anything, I am happy to help
 - &nbsp; How to reach me: [@bekha_jaloliddinov](https://instagram.com/diyorbek.web/)
