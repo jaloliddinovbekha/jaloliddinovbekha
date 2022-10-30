@@ -22,5 +22,5 @@ I am Full-stack Developer
 <br />
 
 - &nbsp; 📍 Current location: Tashkent, Uzbekistan
-- &nbsp; Ask me about anything, I am happy to help
-- &nbsp; How to reach me: [@bekha_jaloliddinov](https://instagram.com/diyorbek.web/)
+- &nbsp; 📞 Ask me about anything, I am happy to help
+- &nbsp; 📧How to reach me: [@bekha_jaloliddinov](https://instagram.com/diyorbek.web/)
