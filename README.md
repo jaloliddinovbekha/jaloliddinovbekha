@@ -14,6 +14,7 @@ I am Full-stack Developer
    <code><img src="https://www.nicepng.com/png/full/209-2091499_vue-router-vuex-logo.png" width="35px" height="35px"></code>
    <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwSOeHrDN254HXLp0cYzeK3AQH3uXvhdbsgsuy6yAz&s" width="55px" height="35px"></code>
    <code><img src="https://www.php.net/images/logos/new-php-logo.svg" width="55px" height="35px"></code>
+   <code><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="55px" height="35px"></code>
    
 <br />
 
